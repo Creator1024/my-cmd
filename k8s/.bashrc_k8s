@@ -1,0 +1,21 @@
+# k8s
+alias k='kubectl'
+alias kx='kubectx'
+alias kga='kubectl get all'
+alias klt='kubectl logs --tail=100'
+
+alias kgp='kubectl get pods'
+alias kgd='kubectl get deployment'
+alias kgsvc='kubectl get service'
+alias kgss='kubectl get statefulset'
+alias kgi='kubectl get ingress'
+alias kgep='kubectl get endpoints'
+alias kgns='kubectl get namespace'
+
+alias kdp='kubectl describe pod'
+alias kdd='kubectl describe deployment'
+alias kdsvc='kubectl describe service'
+alias kdss='kubectl describe statefulset'
+alias kdi='kubectl describe ingress'
+alias kdep='kubectl describe endpoints'
+

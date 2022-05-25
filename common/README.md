@@ -7,6 +7,7 @@
 
 - [jq -- 轻量级、灵活的命令行JSON处理器](https://github.com/stedolan/jq)
 
+- [yq -- 轻量级、灵活的命令行YAML处理器](https://kislyuk.github.io/yq/)
 
 
 - [fzf -- 命令行模糊查找器](https://github.com/junegunn/fzf)
